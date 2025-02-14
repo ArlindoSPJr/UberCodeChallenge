@@ -11,11 +11,7 @@ Este é um desafio de código desenvolvido para o processo seletivo da Uber. A a
 - Maven
 
 ## Funcionalidades
-- Cadastro de usuários
-- Cadastro de motoristas
-- Solicitação de corridas
-- Gerenciamento de corridas em andamento
-- Finalização de corridas
+- Envio de emails
 
 ## Como Executar o Projeto
 1. Clone o repositório:
